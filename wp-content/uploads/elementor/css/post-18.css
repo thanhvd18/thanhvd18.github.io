@@ -1,0 +1,40 @@
+.elementor-18 .elementor-element.elementor-element-6d43963 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-18 .elementor-element.elementor-element-6d43963 > .elementor-background-overlay{background-image:url("./../../2020/05/bg-003-free-img.png");background-position:top center;background-repeat:no-repeat;opacity:1;}.elementor-18 .elementor-element.elementor-element-6d43963 > .elementor-shape-bottom .elementor-shape-fill{fill:#030503C4;}.elementor-18 .elementor-element.elementor-element-6d43963 > .elementor-shape-bottom svg{width:calc(100% + 1.3px);height:57px;}.elementor-18 .elementor-element.elementor-element-6d43963{padding:200px 30px 100px 30px;z-index:1;}.elementor-18 .elementor-element.elementor-element-fda50a4{text-align:center;}.elementor-18 .elementor-element.elementor-element-fda50a4 .elementor-heading-title{color:var( --e-global-color-astglobalcolor1 );}.elementor-18 .elementor-element.elementor-element-0b803c8{--divider-border-style:solid;--divider-color:var( --e-global-color-astglobalcolor2 );--divider-border-width:1px;}.elementor-18 .elementor-element.elementor-element-0b803c8 .elementor-divider-separator{width:122px;margin:0 auto;margin-center:0;}.elementor-18 .elementor-element.elementor-element-0b803c8 .elementor-divider{text-align:center;padding-top:5px;padding-bottom:5px;}@media(min-width:1025px){.elementor-18 .elementor-element.elementor-element-6d43963 > .elementor-background-overlay{background-attachment:scroll;}}@media(max-width:1024px){.elementor-18 .elementor-element.elementor-element-6d43963{padding:140px 25px 65px 25px;}.elementor-18 .elementor-element.elementor-element-fda50a4{text-align:center;}.elementor-18 .elementor-element.elementor-element-0b803c8 .elementor-divider{text-align:center;}.elementor-18 .elementor-element.elementor-element-0b803c8 .elementor-divider-separator{margin:0 auto;margin-center:0;}}@media(max-width:767px){.elementor-18 .elementor-element.elementor-element-6d43963{padding:160px 20px 50px 20px;}}/* Start custom CSS for section, class: .elementor-element-6d43963 */body {
+     overflow-x:hidden;
+} 
+.elementor-shape-bottom {
+     bottom: -1px;
+     animation: wave 20s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+     width: 200%;
+ } 
+@keyframes wave {
+   0% {
+     margin-left: 0;
+   }
+     50% {
+     margin-left: -1000px;
+   }
+   100% {
+     margin-left: 0px;
+   }
+ }  
+ 
+  
+body {
+     overflow-x:hidden;
+} 
+.elementor-shape-top {
+     bottom: -1px;
+     animation: wave2 100s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+     width: 150%;
+ } 
+@keyframes wave2 {
+   0% {
+     margin-left: 0;
+   }
+     50% {
+     margin-left: -800px;
+   }
+   100% {
+     margin-left: -100px;
+   }
+ }/* End custom CSS */
