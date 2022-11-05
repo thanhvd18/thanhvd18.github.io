@@ -53,7 +53,7 @@ img.emoji {
 <link rel="stylesheet" id="elementor-post-249-css" href="./wp-content/uploads/elementor/css/post-249.css?ver=1667581593" media="all">
 <link rel="stylesheet" id="elementor-pro-css" href="./wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.3" media="all">
 <link rel="stylesheet" id="she-header-style-css" href="./wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style.css?ver=1.5.5" media="all">
-<link rel="stylesheet" id="elementor-post-181-css" href="./wp-content/uploads/elementor/css/post-181.css?ver=1667659234" media="all">
+<link rel="stylesheet" id="elementor-post-181-css" href="./wp-content/uploads/elementor/css/post-181.css?ver=1667660675" media="all">
 <link rel="stylesheet" id="hfe-widgets-style-css" href="./wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.13" media="all">
 <link rel="stylesheet" id="elementor-post-421-css" href="./wp-content/uploads/elementor/css/post-421.css?ver=1667633363" media="all">
 <link rel="stylesheet" id="happy-icons-css" href="./wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.7.1" media="all">
@@ -399,42 +399,6 @@ flexibility(document.documentElement);
 				<div class="elementor-widget-container">
 			<div class="wpr-stt-wrapper"><div class="wpr-stt-btn" data-settings='{"animation":"fade","animationOffset":0,"animationDuration":200,"fixed":"fixed","scrolAnim":800}'><span class="wpr-stt-icon"><i class="fas fa-chevron-up"></i></span></div></div>		</div>
 				</div>
-				<div class="elementor-element elementor-element-fc83d3e elementor-widget elementor-widget-html" data-id="fc83d3e" data-element_type="widget" data-widget_type="html.default">
-				<div class="elementor-widget-container">
-			
-  
-    <title>Website Counter</title>
-    <script defer src="./index.js"></script>
-    <link rel="stylesheet" href="./styles.css">
-  
-  
-    <div>Count:
-    <span class="website-counter"></span>
-    </div>
-  
-
-<script>var counterContainer = document.querySelector(".website-counter");
-var resetButton = document.querySelector("#reset");
-var visitCount = localStorage.getItem("page_view");
-
-// Check if page_view entry is present
-if (visitCount) {
-  visitCount = Number(visitCount) + 1;
-  localStorage.setItem("page_view", visitCount);
-} else {
-  visitCount = 1;
-  localStorage.setItem("page_view", 1);
-}
-counterContainer.innerHTML = visitCount;
-
-// Adding onClick event listener
-resetButton.addEventListener("click", () => {
-  visitCount = 1;
-  localStorage.setItem("page_view", 1);
-  counterContainer.innerHTML = visitCount;
-});</script>
-<style></style>		</div>
-				</div>
 					</div>
 		</div>
 							</div>
@@ -539,6 +503,5 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script id="wpforms-elementor-js-extra">var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};</script>
 <script src="./wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.7.2" id="wpforms-elementor-js"></script>
 			<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
-				
-</body>
+				</body>
 </html>
