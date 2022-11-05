@@ -9,8 +9,8 @@
 	<title>
 	Comments on: Chào tất cả mọi người!	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
-	<description>Một trang web mới</description>
+	<link>./../index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=chao-moi-nguoi</link>
+	<description>personal website</description>
 	<lastBuildDate>Wed, 26 Oct 2022 16:53:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

@@ -11,7 +11,7 @@
 	<title>thanhvd &#8211; Duy Thanh</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Một trang web mới</description>
+	<description>personal website</description>
 	<lastBuildDate>Wed, 26 Oct 2022 16:53:06 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -29,7 +29,7 @@
 </image> 
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>./../../../2022/10/26/chao-moi-nguoi/index.html</link>
+		<link>./../../../2022/10/26/chao-moi-nguoi/index.html?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=chao-moi-nguoi</link>
 					<comments>./../../../2022/10/26/chao-moi-nguoi/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[thanhvd]]></dc:creator>
