@@ -1,0 +1,19 @@
+.elementor-16 .elementor-element.elementor-element-868ee6f > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-16 .elementor-element.elementor-element-868ee6f > .elementor-background-overlay{background-image:url("./../../2020/05/bg-02-free-img.png");background-position:top center;background-repeat:no-repeat;opacity:1;}.elementor-16 .elementor-element.elementor-element-868ee6f > .elementor-shape-bottom .elementor-shape-fill{fill:#4F637E;}.elementor-16 .elementor-element.elementor-element-868ee6f > .elementor-shape-bottom svg{width:calc(100% + 1.3px);height:78px;}.elementor-16 .elementor-element.elementor-element-868ee6f{padding:200px 30px 100px 30px;z-index:1;}.elementor-bc-flex-widget .elementor-16 .elementor-element.elementor-element-c0dd7a2.elementor-column .elementor-widget-wrap{align-items:flex-start;}.elementor-16 .elementor-element.elementor-element-c0dd7a2.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:flex-start;align-items:flex-start;}.elementor-16 .elementor-element.elementor-element-c0dd7a2.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-16 .elementor-element.elementor-element-c0dd7a2 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:21px;}.elementor-16 .elementor-element.elementor-element-c7bec90{text-align:center;}.elementor-16 .elementor-element.elementor-element-c7bec90 .elementor-heading-title{color:var( --e-global-color-astglobalcolor1 );}.elementor-16 .elementor-element.elementor-element-6543e8b{--divider-border-style:solid;--divider-color:var( --e-global-color-astglobalcolor1 );--divider-border-width:1px;}.elementor-16 .elementor-element.elementor-element-6543e8b .elementor-divider-separator{width:50px;margin:0 auto;margin-center:0;}.elementor-16 .elementor-element.elementor-element-6543e8b .elementor-divider{text-align:center;padding-top:5px;padding-bottom:5px;}@media(min-width:1025px){.elementor-16 .elementor-element.elementor-element-868ee6f > .elementor-background-overlay{background-attachment:scroll;}}@media(max-width:1024px){.elementor-16 .elementor-element.elementor-element-868ee6f{padding:140px 25px 65px 25px;}.elementor-16 .elementor-element.elementor-element-c7bec90{text-align:center;}.elementor-16 .elementor-element.elementor-element-6543e8b .elementor-divider{text-align:center;}.elementor-16 .elementor-element.elementor-element-6543e8b .elementor-divider-separator{margin:0 auto;margin-center:0;}}@media(max-width:767px){.elementor-16 .elementor-element.elementor-element-868ee6f{padding:160px 20px 50px 20px;}}/* Start custom CSS for section, class: .elementor-element-868ee6f */body {
+     overflow-x:hidden;
+} 
+.elementor-shape-bottom {
+     bottom: -1px;
+     animation: wave 10s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+     width: 120%;
+ } 
+@keyframes wave {
+   0% {
+     margin-left: 0;
+   }
+     50% {
+     margin-left: -200px;
+   }
+   100% {
+     margin-left: 0px;
+   }
+ }/* End custom CSS */
