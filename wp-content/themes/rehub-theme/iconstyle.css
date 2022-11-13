@@ -2,10 +2,10 @@
 @font-face {
   font-family: 'rhicons';
   src:
-    url('./fonts/rhicons.woff2?3oibrk') format('woff2'),
-    url('./fonts/rhicons.ttf?3oibrk') format('truetype'),
-    url('./fonts/rhicons.woff?3oibrk') format('woff'),
-    url('./fonts/rhicons.svg?3oibrk#rhicons') format('svg');
+    url('http://thanhvd18.github.io/wp-content/themes/rehub-theme/fonts/rhicons.woff2?3oibrk') format('woff2'),
+    url('http://thanhvd18.github.io/wp-content/themes/rehub-theme/fonts/rhicons.ttf?3oibrk') format('truetype'),
+    url('http://thanhvd18.github.io/wp-content/themes/rehub-theme/fonts/rhicons.woff?3oibrk') format('woff'),
+    url('http://thanhvd18.github.io/wp-content/themes/rehub-theme/fonts/rhicons.svg?3oibrk#rhicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: swap;

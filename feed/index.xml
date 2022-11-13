@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Duy Thanh</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../index.html</link>
+	<atom:link href="http://thanhvd18.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>http://thanhvd18.github.io</link>
 	<description>personal website</description>
-	<lastBuildDate>Sun, 06 Nov 2022 13:45:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 13 Nov 2022 06:56:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.1</generator>
 
 <image>
-	<url>./../wp-content/uploads/2022/10/path434.png</url>
+	<url>http://thanhvd18.github.io/wp-content/uploads/2022/10/path434.png</url>
 	<title>Duy Thanh</title>
-	<link>./../index.html</link>
+	<link>http://thanhvd18.github.io</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

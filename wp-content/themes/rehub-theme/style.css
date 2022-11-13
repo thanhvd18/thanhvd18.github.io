@@ -1155,7 +1155,7 @@ body .aff_tag img{ max-width: 90px; vertical-align: middle; max-height: 25px; bo
 body .brand_logo_small img{max-width: 100px; height: auto; width: auto; margin-top: 5px; max-height: 60px }
 .rehub_woo_review_tabs { display: none; }
 .rehub_woo_review_tabs:first-child {display: block;}
-.btn_offer_block.loading:before { content: ""; position: absolute; top: 0; right: 0; left: 0; bottom: 0; background: url(./images/woo/ajax-loader.gif) center no-repeat rgba(255,255,255,0.65); }
+.btn_offer_block.loading:before { content: ""; position: absolute; top: 0; right: 0; left: 0; bottom: 0; background: url(http://thanhvd18.github.io/wp-content/themes/rehub-theme/images/woo/ajax-loader.gif) center no-repeat rgba(255,255,255,0.65); }
 .rehub_offer_coupon.free_coupon_width{ display: inline-block; margin-bottom: 20px; font-size: 15px; font-weight: bold;}
 .rehub_offer_coupon{display: inline-block; vertical-align: top; cursor: pointer;padding: 0.65em 1.1em;border: 1px dashed green;text-align: center; position: relative; font-size: 13px; clear: both; line-height: 18px; background-color: rgb(233, 255, 221); color: green;}
 .post_offer_anons .rehub_offer_coupon, .post_offer_anons{ display: inline-block;}
@@ -1316,10 +1316,10 @@ body.pgwModalOpen { overflow: hidden; }
 #pgwModal .pm-close i, #pgwModal .pm-close{line-height: 30px; font-size: 18px; width: 30px; height: 30px}
 body.pgwModalOpen .rh-container, body.pgwModalOpen #main_header {-webkit-filter: grayscale(100%); filter: grayscale(100%);transition : -webkit-filter 500ms linear; backface-visibility: hidden;}
 .coupon_reveal_popup{ display: none}
-.coupon_modal_coupon{background: url(./images/cpnbg.webp) no-repeat center 11px; padding: 25px 0}
+.coupon_modal_coupon{background: url(http://thanhvd18.github.io/wp-content/themes/rehub-theme/images/cpnbg.webp) no-repeat center 11px; padding: 25px 0}
 #pgwModal .coupon_reveal_popup{ display: block}
 .cpn_btn_inner{display:block; width: 250px; margin: -25px auto 30px auto;}
-.cpn_modal_container{min-width: 250px;background: url(./images/check.webp) no-repeat right center #9300fe;border: 1px dashed #e3bdfd;padding: 5px 50px 5px 20px;}
+.cpn_modal_container{min-width: 250px;background: url(http://thanhvd18.github.io/wp-content/themes/rehub-theme/images/check.webp) no-repeat right center #9300fe;border: 1px dashed #e3bdfd;padding: 5px 50px 5px 20px;}
 .coupon_code_in_modal input.code {padding:9px 10px; box-shadow: none; outline: 0; color: #fff; font-weight: bold; font-size: 23px; border:none; background-color: transparent;}
 .shop_in_cpn img{margin-right: 5px; vertical-align: middle; max-height: 50px}
 .thumb_in_modalcoupon{width: 70px;}.thumb_in_modalcoupon .thumbscount{display: none;}
