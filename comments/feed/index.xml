@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Duy Thanh	</title>
-	<atom:link href="http://thanhvd18.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>http://thanhvd18.github.io</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>personal website</description>
 	<lastBuildDate>Sun, 13 Nov 2022 06:56:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
